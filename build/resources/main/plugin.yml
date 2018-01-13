@@ -1,0 +1,9 @@
+name: Sync
+main: com.akaiha.sync.Sync
+version: 1.0.0
+depend: [Core]
+author: Akaiha
+
+commands:
+  sync:
+    description: sync command
